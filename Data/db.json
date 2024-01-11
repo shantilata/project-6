@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "prod_name": "Headphone",
+      "company": "SONY",
+      "price": "1500",
+      "color": "blue",
+      "description": "Hearing gadget",
+      "id": 5
+    },
+    {
+      "prod_name": "book",
+      "company": "chaya prakasani",
+      "price": "400",
+      "color": "grey",
+      "description": "Good book",
+      "id": 10
+    },
+    {
+      "prod_name": "book",
+      "company": "chaya prakasani",
+      "price": "400",
+      "color": "others",
+      "description": "Good book",
+      "id": 11
+    },
+    {
+      "prod_name": "Camera",
+      "company": "Nekon",
+      "price": "20,0000",
+      "color": "red",
+      "description": "Optical instrument",
+      "id": 12
+    },
+    {
+      "prod_name": "",
+      "company": "",
+      "price": "",
+      "color": "",
+      "description": "",
+      "id": 13
+    }
+  ]
+}

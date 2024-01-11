@@ -1,0 +1,28 @@
+.add_data{
+    
+    background: linear-gradient(to bottom left,rgb(122, 50, 55),rgb(102, 157, 184));
+    padding: 100px 0px;
+}
+.add_data form {
+    background: rgb(118, 242, 137);
+    width: 60%;
+    margin: 0px auto;
+    padding: 50px 10px;
+
+}
+.add_data form label{
+    color:black;
+    font-size: larger;
+    display: inline-block;
+    width: 20%;
+}
+.add_data form input{
+    width: 60%;
+    height: 30px;
+}
+.add_data form input[type= 'submit']{
+    width: 20%;
+    border-radius: 15px;
+    color:rgb(18, 12, 200);
+    font-weight: 700;
+}
